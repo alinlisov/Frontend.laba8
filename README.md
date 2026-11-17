@@ -28,7 +28,7 @@ Frontend_Lab8_Variant14/
 **Спосіб 1 - найпростіший:**
 
 1. Розпакувати папку проєкту.
-2. У PyCharm вибрати **File - Open...** і вказати `Frontend_Lab8_Variant14`.
+2. У PyCharm вибрати **File - Open...** і вказати `Frontend.laba8`.
 3. Відкрити `index.html`.
 4. Натиснути правою кнопкою на файлі і вибрати **Open in Browser**, або відкрити цей HTML-файл у браузері через Провідник Windows.
 
